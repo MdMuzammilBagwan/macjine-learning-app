@@ -1,1 +1,1 @@
-# macjine-learning-app
+# machine-learning-app
